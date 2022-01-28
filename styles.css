@@ -1,0 +1,36 @@
+body {
+    background-color: white;
+}
+
+h2 {
+    background-color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: navy;
+}
+
+h1 {
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: navy
+}
+
+.topnav {
+    background-color: black;
+    overflow: auto;
+}
+
+.topnav a {
+    float: left;
+    color: white;
+    text-align: center;
+}
+
+.topnav a.active {
+    background-color: white;
+    color: black;
+}
+
+.topnav a:hover {
+    background-color: darkgray;
+    color: white;
+}
